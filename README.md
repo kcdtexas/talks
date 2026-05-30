@@ -1,4 +1,4 @@
-# KCD Texas 2026 — Talks Archive
+# KCD Texas 2026 - Talks Archive
 
 [![Event](https://img.shields.io/badge/Event-May%2015%2C%202026-blue?style=flat-square)](https://texaskcd.com)
 [![Location](https://img.shields.io/badge/Location-Austin%2C%20Texas-orange?style=flat-square)](https://texaskcd.com)
