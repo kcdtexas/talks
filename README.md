@@ -8,17 +8,40 @@ This is the **official post-event archive** for [KCD Texas 2026](https://texaskc
 
 Here you’ll find slides, video recordings, code samples, and additional resources from every accepted session. Bookmark this repo — it’s the single place to find KCD Texas 2026 content long after the event.
 
-> **Speakers:** The schedule will be announced on **March 31, 2026**. After the event, please submit your talk resources by opening a Pull Request using the [speaker submission guide](#speakers-submit-your-resources) below.
+> **Speakers:** The event has passed. Please submit your talk resources by opening a Pull Request using the [speaker submission guide](#speakers-submit-your-resources) below.
 
 ---
 
 ## Talks
 
-> This table will be populated after the event on May 15, 2026. Check back after the schedule is announced on March 31, 2026.
+> Slides, recordings, and code links are being added as speakers submit their resources. See [how to submit](#speakers-submit-your-resources).
 
-| # | Title | Speaker(s) | Type | Topics | Slides | Video | Code |
-|---|---|---|---|---|---|---|---|
-| 1 | _TBA_ | _TBA_ | Session | | | | |
+| # | Time | Room | Title | Speaker(s) | Type | Topics | Slides | Video | Code |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 | 9:15 AM | Room 1 | The State of Cloud Native: The Shift Towards AI | Katie Gamanji | Keynote | `#open-source` | | | |
+| 2 | 9:35 AM | Room 1 | Open Source Infrastructure for the AI Native Era | Jonathan Bryce | Keynote | `#open-source` | | | |
+| 3 | 9:55 AM | Room 1 | Look for the Helpers | Ian Coldwater | Keynote | `#open-source` | | | |
+| 4 | 10:30 AM | Room 1 | Livin' In the Future: Your Platform's Next Interface Is an AI Agent | Whitney Lee | Session | `#platform-engineering` | [Slides](Your-Internal-Developer-Platforms-Next-Interface-by-Whitney-Lee.pdf) | | |
+| 5 | 10:30 AM | Room 2 | How did that happen? And is it a security Problem. | Duffie Cooley | Session | `#security` | [Slides](How-Did-That-Happen-is-it-a-security-problem-KCD-Texas-Duffie-Cooley.pptx) | | |
+| 6 | 10:30 AM | Room 3 | The 90-Minute IDP: AI Ate My Implementation. Let's Build a Platform Together and Score What's Left. | Michael Forrester | Workshop | `#platform-engineering` `#workshops` | [Slides](The-90-Minute-IDP-by-Michael-Forrester.pptx) | | |
+| 7 | 11:10 AM | Room 1 | The Post-Hypervisor Era: Unifying Brownfield VMs, AI, and Containers on a Single Control Plane | Myroslav Mishov | Session | `#kubernetes-core` | [Slides](The-Post-Hypervisor-Era-by-Myroslav-Mishov.pptx) | | |
+| 8 | 11:10 AM | Room 2 | Hybrid Cloud at Enterprise Scale: Private Kubernetes for Portability and Control | Shravani Gunturu | Session | `#kubernetes-core` | [Slides](Hybrid-Cloud-at-Enterprise-Scale-by-Shravani-Gunturu.pdf) | | |
+| 9 | 11:50 AM | Room 1 | Enhance Your Agent Accuracy with Agent Skills | Lin Sun | Session | `#mlops` | | | |
+| 10 | 11:50 AM | Room 2 | AI-Driven DevOps: How LLMs and Agents Are Changing Software Delivery | Kedar Kulkarni | Session | `#mlops` | [Slides](AI-Driven-DevOps-How-LLMs-and-Agents-Are-Changing-Software-Delivery-by-Kedar-Kulkarni.pdf) | | |
+| 11 | 1:15 PM | Room 1 | Kubernetes-Powered Multi-Cloud Apache Airflow at Scale: The Astro Architecture | Goutam Tadi | Session | `#kubernetes-core` `#batch` | [Slides](Once-Control-Plane-Three-Clouds-Astronomer-by-Goutam-Tadi.pptx) | | |
+| 12 | 1:15 PM | Room 2 | Stop Wasting GPUs: How We Built a Golden Path for GPU Sharing on Kubernetes | Engin Diri | Session | `#mlops` `#platform-engineering` | | | |
+| 13 | 1:15 PM | Room 3 | Identity-Aware Access Control with Reverse Proxies | Peter ONeill, Chris De La Garza | Workshop | `#security` `#networking` `#workshops` | | | |
+| 14 | 1:55 PM | Room 1 | KServe and the Next Step for LLM Workloads: LLMInferenceService in Context | Jooho Lee | Session | `#mlops` | [Slides](KServe-and-the-Next-Steps-for-LLM-Workloads-by-Jooho-Lee.pdf) | | |
+| 15 | 1:55 PM | Room 2 | Linux for the Cloud Native Engineer | Marina Moore | Session | `#kubernetes-core` | [Slides](Linux-for-the-Cloud-Native-Engineer-by-Marina-Moore.pdf) | | |
+| 16 | 2:35 PM | Room 1 | We Migrated to Karpenter and Our Costs Went Up: A Journey to Real Savings | Abhinav Dahiya | Session | `#kubernetes-core` | | | |
+| 17 | 2:35 PM | Room 2 | Sandbox Breakouts: Rapid Unscheduled Agentic Assembly | Andrew Martin | Session | `#security` | | | |
+| 18 | 3:15 PM | Room 1 | Kubernetes at the Edge: Declaring the Indeterminable with Nix and K3s | Cesar Diaz | Session | `#edge` | [Slides](Code-In-Cluster-Out-by-Cesar-Diaz.pdf) | | |
+| 19 | 3:15 PM | Room 2 | Stop Overprovisioning for Application Startup | Graziano Casto | Session | `#kubernetes-core` | [Slides](Stop-Overprovisioning-for-Application-Startup-by-Graziano-Casto.pdf) | | |
+| 20 | 3:15 PM | Room 3 | From Zero to Hero: Deploying Production-Ready LLMs on Kubernetes with NVIDIA GPUs | Lucas Duarte, Jairo Martinez Mantilla, Eric Anderson | Workshop | `#mlops` `#workshops` | [Slides](Building-and-Scaling-Inference-Workloads-on-Amazon-EKS-by-Lucas-Duarte.pptx) | | |
+| 21 | 3:55 PM | Room 1 | We have the Kure(d): Self Service, Multi-Tenant Infrastructure With Kured and Flatcar Linux | Tyler Auerbeck | Session | `#platform-engineering` `#kubernetes-core` | | | |
+| 22 | 3:55 PM | Room 2 | Cracking the OWASP 10 for Kubernetes | Dolis Sharma | Session | `#security` | [Slides](Cracking-the-OWASP-10-for-Kubernetes-by-Dolis-Sharma.pdf) | | |
+| 23 | 4:35 PM | Room 1 | Mastering the Dark Arts of OTel Debugging | Julia Furst Morgado | Session | `#observability` | [Slides](Mastering-Dark-Arts-of-OTel-Debugging-by-Julia-Furst-Morgado.pdf) | | |
+| 24 | 4:35 PM | Room 2 | AGENTS.md and Beyond: Open Standards for AI-Assisted Engineering | Angel Ramirez | Session | `#open-source` | | | |
 
 ---
 
