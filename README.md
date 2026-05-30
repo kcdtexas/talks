@@ -6,7 +6,7 @@
 
 This is the **official post-event archive** for [KCD Texas 2026](https://kcdtexas.org), held on **Friday, May 15, 2026** at the TCEA Conference Center in Austin, Texas.
 
-Here you’ll find slides, video recordings, code samples, and additional resources from every accepted session. Bookmark this repo — it’s the single place to find KCD Texas 2026 content long after the event.
+Here you’ll find slides, video recordings, code samples, and additional resources from every accepted session. Bookmark this repo, it’s the single place to find KCD Texas 2026 content long after the event.
 
 > **Speakers:** The event has passed. Please submit your talk resources by opening a Pull Request using the [speaker submission guide](#speakers-submit-your-resources) below.
 
